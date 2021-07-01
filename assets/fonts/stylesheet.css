@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: local('Gill Sans Nova Light'), local('GillSansNova-Light'),
+        url('GillSansNova-Light.woff2') format('woff2'),
+        url('GillSansNova-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova Book';
+    src: local('Gill Sans Nova Book'), local('GillSansNova-Book'),
+        url('GillSansNova-Book.woff2') format('woff2'),
+        url('GillSansNova-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
